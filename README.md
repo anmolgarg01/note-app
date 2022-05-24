@@ -18,5 +18,5 @@
 - RUN: docker-compose build
 - Run: docker-compose up
 
-Backend end points can be accessed from: http://localhost:8080/docs
-Frontend can be accessed from: http://localhost:3000
+- Backend end points can be accessed from: http://localhost:8080/docs
+- Frontend can be accessed from: http://localhost:3000
