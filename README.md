@@ -14,9 +14,12 @@
 - Add user Page(Only for super admin)
 
 
-## To start this project:
+## To start this project on local machine:
 - RUN: docker-compose build
 - Run: docker-compose up
 
 - Backend end points can be accessed from: http://localhost:8080/docs
 - Frontend can be accessed from: http://localhost:3000
+
+## To start this project on server:
+- Add backend API endpoint in .env file in frontend
